@@ -96,25 +96,15 @@
 <br>
 <br>
 
-
-
-<br>
-
-
 ### 실습 인증
-
-<!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
-
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="677" height="709" alt="image" src="https://github.com/user-attachments/assets/06706b44-7288-48f5-ac59-d55e26058554" />
+<img width="590" height="187" alt="image" src="https://github.com/user-attachments/assets/869436a1-8dff-4847-b964-f6c2c151e93d" />
 
 
 ## 2. 핵심 기능
 <br>
 
 ### 개념정리
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -148,15 +138,12 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### 실습 인증
 
-<!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
+<img width="620" height="679" alt="image" src="https://github.com/user-attachments/assets/22f9f50e-9841-4aea-a817-d5048aaeb0bf" />
+<img width="678" height="307" alt="image" src="https://github.com/user-attachments/assets/1a122aff-4635-41ef-bd63-362d3e9cfad3" />
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
 
 
 ## 3. 기술 통계 계산과 요약
@@ -193,16 +180,11 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### 실습 인증
+<img width="573" height="703" alt="image" src="https://github.com/user-attachments/assets/3c43eb14-ac37-466c-9e3d-d1effc499d62" />
 
-<!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
-
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="547" height="459" alt="image" src="https://github.com/user-attachments/assets/f7ce3335-c984-4705-a994-938fe860a960" />
 
 
 
@@ -243,7 +225,26 @@ df = pd.DataFrame(data)
   - print()를 이용해 새로운 열이 추가된 DataFrame의 상단 5행(head)을 출력하세요.
 ```
 
-<!-- 이 부분을 지우고 인증 사진을 제출해주세요.-->
+## 1.
+<br>
+<img width="443" height="260" alt="image" src="https://github.com/user-attachments/assets/2893846a-f182-446a-93d6-fa28e8eaf62e" />
+<br>
+
+## 2. 
+<br>
+<img width="434" height="136" alt="image" src="https://github.com/user-attachments/assets/8a3805fc-4c0d-4aba-a9d8-307bb5ec23e4" />
+
+<br>
+
+## 3.
+<br>
+<img width="464" height="215" alt="image" src="https://github.com/user-attachments/assets/0b889204-65e3-4095-b6aa-8d6ed058d053" />
+
+
+
+<br>
+
+
 
 
 
